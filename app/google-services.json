@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9530674802",
+    "project_id": "onlinecourses-51d24",
+    "storage_bucket": "onlinecourses-51d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9530674802:android:3dcc74480c0d8f497cbceb",
+        "android_client_info": {
+          "package_name": "com.example.onlinecourses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9530674802-oi2ak8p2k28tr5jsba42ggbjft156k9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACQbNDuSaoShLR3NkX3hOCXqTA0mtses"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9530674802-oi2ak8p2k28tr5jsba42ggbjft156k9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

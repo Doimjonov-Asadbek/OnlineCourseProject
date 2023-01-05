@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Dashboard"
+        android:icon="@drawable/ic_home_24"
+        android:title="Dashboard"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/Courses"
+        android:icon="@drawable/ic_course"
+        android:title="Courses"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        tools:ignore="HardcodedText" />
+
+</menu>
